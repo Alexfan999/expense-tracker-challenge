@@ -13,8 +13,11 @@ Delete an expense by ID.
 Data should be stored in a file (expenses.csv), so information persists between program runs.
 
 # Detailed Instructions:
+
  Add Expense: Prompt the user to enter the date, description, and amount. Save this entry to expenses.csv. 
+ 
  List Expenses: Display all expenses from the file, including each expense’s date, description, amount, and an ID for reference. 
+ 
  Delete Expense: Allow the user to delete an expense by entering the expense ID. Update the expenses.csv file accordingly. 
 
 # Data File Structure:
