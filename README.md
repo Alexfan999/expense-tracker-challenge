@@ -40,7 +40,7 @@ List expenses: list
 
 Delete expense: delete
 
-Evaluation Criteria
+# Evaluation Criteria
 
 Code Quality: Clean, readable, and organized code.
 
