@@ -1,5 +1,7 @@
 # expense-tracker-challenge
-Coding Challenge: Expense Tracker Command-Line Application
+Coding Challenge: 
+Expense Tracker Command-Line Application
+
 Challenge Description
 Overview: The application should allow users to add, view, and delete expenses. Each expense entry should include a date, description, and amount.
 
