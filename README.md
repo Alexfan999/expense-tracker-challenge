@@ -33,3 +33,10 @@ Code Quality: Clean, readable, and organized code.
 Data Handling: Proper handling of file reading and writing.
 Functionality: Correct implementation of add, list, and delete features.
 Error Handling: Handle invalid inputs and file-related errors.
+
+## Submission Instructions
+1. **Fork this repository** to your GitHub account.
+2. **Clone your forked repository** to your local machine.
+3. Complete the challenge and push your changes to your forked repository.
+4. Submit your solution by creating a **pull request** to this repository.
+
