@@ -22,9 +22,13 @@ Data should be stored in a file (expenses.csv), so information persists between 
 
 # Data File Structure:
 expenses.csv should have the following structure:
+
 id,date,description,amount
+
 1,2024-11-01,"Groceries",20.50
+
 2,2024-11-02,"Transport",15.00
+
 
 Each row represents an expense with a unique ID, date, description, and amount.
 
