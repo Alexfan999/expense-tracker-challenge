@@ -35,12 +35,19 @@ Each row represents an expense with a unique ID, date, description, and amount.
 # Example Commands:
 
 Add expense: add
+
 List expenses: list
+
 Delete expense: delete
+
 Evaluation Criteria
+
 Code Quality: Clean, readable, and organized code.
+
 Data Handling: Proper handling of file reading and writing.
+
 Functionality: Correct implementation of add, list, and delete features.
+
 Error Handling: Handle invalid inputs and file-related errors.
 
 ## Submission Instructions
