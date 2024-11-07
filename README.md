@@ -6,7 +6,6 @@ Expense Tracker Command-Line Application
 Overview: The application should allow users to add, view, and delete expenses. Each expense entry should include a date, description, and amount.
 
 # Requirements:
-
 The application should:
 Add a new expense (date, description, amount).
 List all expenses.
@@ -14,7 +13,6 @@ Delete an expense by ID.
 Data should be stored in a file (expenses.csv), so information persists between program runs.
 
 # Detailed Instructions:
-
 Add Expense: Prompt the user to enter the date, description, and amount. Save this entry to expenses.csv.
 List Expenses: Display all expenses from the file, including each expense’s date, description, amount, and an ID for reference.
 Delete Expense: Allow the user to delete an expense by entering the expense ID. Update the expenses.csv file accordingly.
